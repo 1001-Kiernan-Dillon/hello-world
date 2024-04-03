@@ -1,0 +1,3 @@
+Number of Players:4
+Spaces Moved for Each Player: 213 179 201 220
+Most Profitable Properties: Brown Red Blue
