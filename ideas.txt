@@ -1,0 +1,1 @@
+Research Idea 1: Perform statistical predictions on the outcome of a game of monopoly. How many players are there? Does distance moved matter? Which properties are the best?
